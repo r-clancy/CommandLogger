@@ -1,0 +1,4 @@
+name: CommandLogger
+main: com.rylinaux.commandlogger.CommandLogger
+version: 1.0.0
+author: rylinaux
